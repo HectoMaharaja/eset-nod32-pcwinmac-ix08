@@ -1,4 +1,4 @@
-# 
+# Turbo ESET NOD32 scripts for Mac OS | Custom ESET NOD32 scripts for PC Windows. Featuring real-time protection and two-factor authentication — optimized for maximum performance on every platform.
 
 
 
